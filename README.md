@@ -16,6 +16,6 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=suryowedossusilo-netizen&show_icons=true&theme=radical)
 
 ## Connect with Me
-- [LinkedIn](link-linkedin-Anda)
+- [LinkedIn](link-linkedin-suryowedo)
 - [Instagram](https://instagram.com/vruimte_)
-- Email: [email-Anda]
+- Email: [25053013@student.uwp.ac.id]
