@@ -18,4 +18,4 @@
 ## Connect with Me
 - [LinkedIn](link-linkedin-suryowedo)
 - [Instagram](https://instagram.com/vruimte_)
-- Email: [25053013@student.uwp.ac.id]
+- [25053013@student.uwp.ac.id]
