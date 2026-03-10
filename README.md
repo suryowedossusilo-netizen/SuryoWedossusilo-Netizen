@@ -1,7 +1,7 @@
 # Hi, I'm Suryo Wedo Susilo 👋
 
 ## About Me
-- 🎓 Student at Summa Edu / [jurusan Anda]
+- 🎓 Student at Universitas Wijaya Putra / [informatika]
 - 🌱 Currently learning [React/Node.js/Python/dll]
 - 💼 Open for internship/freelance opportunities
 - 📍 Surabaya, Indonesia
